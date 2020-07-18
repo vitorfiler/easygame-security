@@ -1,4 +1,4 @@
-package br.com.una.easygamesecurity.config;
+package br.com.economizenergiasecurity.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.access.expression.method.MethodSecurityExpressionHandler;

@@ -1,4 +1,4 @@
-package br.com.una.easygamesecurity.config;
+package br.com.economizenergiasecurity.config;
 
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -157,7 +157,7 @@ public class AuthorizationServerConfig extends AuthorizationServerConfigurerAdap
 
         @Override
         public void configure(ResourceServerSecurityConfigurer resources) throws Exception {
-            resources.resourceId("easygame-security").tokenStore(tokenStore);
+            resources.resourceId("economizenergia-security").tokenStore(tokenStore);
         }
     }
 }

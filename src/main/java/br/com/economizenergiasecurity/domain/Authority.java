@@ -1,4 +1,4 @@
-package br.com.una.easygamesecurity.domain;
+package br.com.economizenergiasecurity.domain;
 
 import lombok.EqualsAndHashCode;
 import lombok.Getter;

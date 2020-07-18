@@ -1,4 +1,4 @@
-package br.com.una.easygamesecurity.config;
+package br.com.economizenergiasecurity.config;
 
 import org.springframework.boot.web.servlet.ServletContextInitializer;
 import org.springframework.context.annotation.Bean;

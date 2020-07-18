@@ -1,4 +1,4 @@
-package br.com.una.easygamesecurity.service.dto;
+package br.com.economizenergiasecurity.service.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

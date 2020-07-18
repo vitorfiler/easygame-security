@@ -1,4 +1,4 @@
-package br.com.una.easygamesecurity.config;
+package br.com.economizenergiasecurity.config;
 
 import org.springframework.beans.factory.BeanInitializationException;
 import org.springframework.beans.factory.InitializingBean;

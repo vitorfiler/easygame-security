@@ -1,4 +1,4 @@
-package br.com.una.easygamesecurity.domain;
+package br.com.economizenergiasecurity.domain;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.EqualsAndHashCode;
