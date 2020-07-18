@@ -1,4 +1,4 @@
-package br.com.una.easygamesecurity.rest;
+package br.com.economizenergiasecurity.rest;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

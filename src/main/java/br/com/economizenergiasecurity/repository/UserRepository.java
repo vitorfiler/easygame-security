@@ -1,4 +1,4 @@
-package br.com.una.easygamesecurity.repository;
+package br.com.economizenergiasecurity.repository;
 
 import java.util.Optional;
 
@@ -6,7 +6,7 @@ import org.springframework.data.jpa.repository.EntityGraph;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
-import br.com.una.easygamesecurity.domain.User;
+import br.com.economizenergiasecurity.domain.User;
 
 @Repository
 public interface UserRepository extends JpaRepository<User, Long> {

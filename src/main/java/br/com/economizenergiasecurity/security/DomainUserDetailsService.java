@@ -1,7 +1,5 @@
-package br.com.una.easygamesecurity.security;
+package br.com.economizenergiasecurity.security;
 
-import br.com.una.easygamesecurity.domain.User;
-import br.com.una.easygamesecurity.repository.UserRepository;
 import org.hibernate.validator.internal.constraintvalidators.hv.EmailValidator;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
@@ -9,6 +7,9 @@ import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Component;
+
+import br.com.economizenergiasecurity.domain.User;
+import br.com.economizenergiasecurity.repository.UserRepository;
 
 import java.util.List;
 import java.util.Locale;

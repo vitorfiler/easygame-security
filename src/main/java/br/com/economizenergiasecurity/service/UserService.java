@@ -1,4 +1,4 @@
-package br.com.una.easygamesecurity.service;
+package br.com.economizenergiasecurity.service;
 
 import javax.transaction.Transactional;
 
@@ -6,9 +6,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 
-import br.com.una.easygamesecurity.repository.AuthorityRepository;
-import br.com.una.easygamesecurity.repository.UserRepository;
-import br.com.una.easygamesecurity.security.SecurityUtils;
+import br.com.economizenergiasecurity.repository.AuthorityRepository;
+import br.com.economizenergiasecurity.repository.UserRepository;
+import br.com.economizenergiasecurity.security.SecurityUtils;
 
 @Service
 @Transactional

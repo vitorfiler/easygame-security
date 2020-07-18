@@ -1,4 +1,4 @@
-package br.com.una.easygamesecurity.security;
+package br.com.economizenergiasecurity.security;
 
 import org.springframework.security.core.AuthenticationException;
 

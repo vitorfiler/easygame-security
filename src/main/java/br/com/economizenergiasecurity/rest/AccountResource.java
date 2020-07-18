@@ -1,13 +1,14 @@
-package br.com.una.easygamesecurity.rest;
+package br.com.economizenergiasecurity.rest;
 
-import br.com.una.easygamesecurity.service.UserService;
-import br.com.una.easygamesecurity.service.dto.PasswordChangeDTO;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
+
+import br.com.economizenergiasecurity.service.UserService;
+import br.com.economizenergiasecurity.service.dto.PasswordChangeDTO;
 
 @RestController
 @RequestMapping("/oauth")

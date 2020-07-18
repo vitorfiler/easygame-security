@@ -8,10 +8,10 @@
 		<version>2.2.6.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.com.una</groupId>
-	<artifactId>easygame-security</artifactId>
+	<groupId>br.com</groupId>
+	<artifactId>economizenergia-security</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>easygame-security</name>
+	<name>economizenergia-security</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>

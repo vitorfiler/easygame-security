@@ -1,10 +1,10 @@
-package br.com.una.easygamesecurity;
+package br.com.una.economizenergiasecurity;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EasygameSecurityApplicationTests {
+class EconomizenergiaSecurityApplicationTests {
 
 	@Test
 	void contextLoads() {
